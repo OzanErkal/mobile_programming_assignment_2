@@ -1,3 +1,4 @@
+
 # Smart Home Controller App - BIM493 Assignment #2
 
 ## Group Members
@@ -29,6 +30,7 @@ npm start    # or flutter run / python main.py
 ## Application Screenshot
 
 
+<img width="379" height="602" alt="Screenshot 2026-11-10 213608" src="https://github.com/user-attachments/assets/443c19be-20e4-42b2-9701-536c7dac4218" />
 
 
 
