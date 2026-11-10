@@ -1,17 +1,34 @@
-# mobile_programming_assignment_2
+# Smart Home Controller App - BIM493 Assignment #2
 
-A new Flutter project.
+## Group Members
+ **Student Name**: Ozan Erkal | **ID**: 14065844776
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Environment & Setup
+**Flutter Version**: Flutter 3.47.6 (Channel user-branch)
+<img width="655" height="63" alt="Screenshot 2026-10-25 204222" src="https://github.com/user-attachments/assets/905fac18-261d-4de6-8bd3-051d63231df1" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Run Commands
+## ⚙️ Setup & Run Commands
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clone the repository
+git clone [https://github.com/OzanErkal/Mobile-Programming-Assignment-1.git](https://github.com/OzanErkal/Mobile-Programming-Assignment-1.git)
+
+# Navigate into the project directory
+cd Mobile-Programming-Assignment-1
+
+# Install dependencies
+npm install  # or yarn install / flutter pub get / pip install -r requirements.txt
+
+# Run the app
+npm start    # or flutter run / python main.py
+```
+
+## Application Screenshot
+
+
+
+
+
